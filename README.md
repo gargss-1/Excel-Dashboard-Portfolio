@@ -19,3 +19,13 @@ An interactive sales dashboard built using Microsoft Excel to analyze sales perf
 - Slicers
 
 Open the **Daily Sales Dashboard** folder to view the Excel file and screenshots.
+
+## Project
+
+### 📁 Daily Sales Dashboard
+
+This project folder contains:
+
+- Daily_Sales_Dashboard.xlsx
+- Dashboard screenshots
+- Project documentation (README)
