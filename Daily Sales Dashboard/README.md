@@ -1,14 +1,22 @@
-# Daily Sales Dashboard
+# Excel Dashboard Portfolio
 
-This dashboard analyzes daily sales performance using Microsoft Excel.
+## Daily Sales Dashboard
 
-## Features
-- Interactive charts
-- Sales trends
-- Product-wise analysis
-- Dynamic dashboard
+An interactive sales dashboard built using Microsoft Excel.
 
-## Tools Used
+### Features
+- KPI Cards
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Sales Trend Analysis
+- Product-wise Analysis
+
+### Tools Used
 - Microsoft Excel
-- Charts
-- Form Controls
+- Pivot Tables
+- Pivot Charts
+- Conditional Formatting
+- Slicers
+
+Open the **Daily Sales Dashboard** folder to view the Excel file and screenshots.
