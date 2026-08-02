@@ -1,7 +1,7 @@
 # Excel Dashboard Portfolio
 
 
-An interactive sales dashboard built using Microsoft Excel.
+An interactive sales dashboard built using Microsoft Excel to analyze sales performance, product trends, and key business metrics through Pivot Tables, Pivot Charts, KPI cards, and slicers.
 
 ### Features
 - KPI Cards
